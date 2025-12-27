@@ -1,4 +1,4 @@
-# Urinalysis Analytics and Clinical Risk Modeling
+# Urinalysis Data Analytics and Clinical Risk Modeling
 
 This repository contains an end-to-end data science and machine learning pipeline
 for analyzing urinalysis test results. The project is based on a publicly available
